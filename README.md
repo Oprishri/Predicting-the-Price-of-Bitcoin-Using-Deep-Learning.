@@ -7,16 +7,16 @@ In multivariate case, the best result will come  at training of LSTM layer with 
 Using deep neural networks, has provided us with a better understanding of Bitcoin, and LSTM architecture.
 
 
-Results using single variable approach (univariate)
+Results using single variable approach (univariate)-
 
-MSE on normalised training data is:
+-MSE on normalised training data is:
 0.07554651699763121
-MSE on  normalised testing data is:
+-MSE on  normalised testing data is:
 0.07554651699763121
 
 Results using multivariate approach :
-MSE on normalised training data:
+-MSE on normalised training data:
 0.011512494197501335
 
-MSE on  normalised testing data:
+-MSE on  normalised testing data:
 0.18213032776285212
